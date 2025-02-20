@@ -21,7 +21,8 @@ body {
     background-color: #fff;
 }
 .wrapper{
-    background: rgba(0,0,0,0.1) url(./img/torresdelpaine.jpg) no-repeat;
+    background: rgba(0,0,0,0.1) url(![torresdelpaine](https://github.com/user-attachments/assets/418b7393-6e94-43ad-85ad-65dce29f0347)
+) no-repeat;
     background-position: center;
     background-size: cover;
     min-height: 100vh;
@@ -87,11 +88,9 @@ body {
     .navbar {
         padding: 6px;
     }
-
     .menu-icon {
         display: flex;
     }
-
     .nav-links {
         position: absolute;
         top: 50px;
@@ -105,30 +104,24 @@ body {
         text-align: center;
         transition: max-height 0.5s ease;
     }
-
     .nav-links li {
         margin: 0;
         padding: 30px 0;
         width: 100%;
     }
-
     .nav-links a {
         padding: 10px 20px;
         width: 100%;
     }
-
     #menu-toggle:checked + .menu-icon + .nav-links {
         max-height: 100vh;
     }
-
     #menu-toggle:checked + .menu-icon .line:nth-child(1) {
         transform: rotate(45deg) translate(15px, 3px);
     }
-
     #menu-toggle:checked + .menu-icon .line:nth-child(2) {
         transform: scale(0);
     }
-
     #menu-toggle:checked + .menu-icon .line:nth-child(3) {
         transform: rotate(-45deg) translate(15px, -4px);
     }
@@ -272,13 +265,15 @@ main{
     }
 }
 .sec1{
-    background: url(../img/TdelP.jpg);
+    background: url(![TdelP](https://github.com/user-attachments/assets/7cc94ae0-8c7d-4e78-8df7-d54cc1321ec9)
+);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
 .sec2{
-    background: url(../img/Navegacion.avif);
+    background: url(![trestorres](https://github.com/user-attachments/assets/08bfb38f-20ab-45e4-8d2b-f6ae01ce7b27)
+);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -438,7 +433,8 @@ footer{
     <section  class="wrapper">
             <div class="icono-logo">
                 <div class="logo">
-                    <img src="./img/Logo.png.png">
+                    <img src=".![Logo png](https://github.com/user-attachments/assets/47a82ae4-aef7-44aa-806f-1d220e40209b)
+">
                 </div>
             </div>
             <nav class="navbar"> 
@@ -466,12 +462,14 @@ footer{
     <main>
         <div class="container1">
             <div class="card">
-                <img src="./img/objetivo.png" alt="img1">
+                <img src="![objetivo](https://github.com/user-attachments/assets/77820c93-c3ee-4353-b266-c8bb56eeb605)
+" alt="img1">
                 <h2>Nuestra Historia</h2>
                 <p>Creemos que nuestra misión es ser viajeros de la patagonia, aventureros del sur del mundo.  con la fuerte convicción en el mantenimiento de areas y el turismo sustentable y responsable. Somos voceros de los ancestros que habitaron la tierra y el mar de esta maravillosa zona.</p>
             </div>
             <div class="card">
-                <img src="./img/vision-compartida.png" alt="img2">
+                <img src="![vision-compartida](https://github.com/user-attachments/assets/d657e897-7484-48be-b285-ec074626ce74)
+" alt="img2">
                 <h2>Nuestro Sueño</h2>
                 <p>Queremos que las personas conozcan y se enamoren de cada lugar de la Patagonia, se asombren de sus paisajes, valoren la esencia de su naturaleza y fauna. Contribuir a la conservación ambiental mediante la conciencia colectiva de aquellos que visitan la Patagonia.</p>
             </div>
@@ -494,22 +492,26 @@ footer{
         <h3>Conoce nuestros destinos</h3>
             <div class="grid-container">
                 <div class="producto">
-                    <img src="./img/producto1.jpg">
+                    <img src="![producto1](https://github.com/user-attachments/assets/ecc3c45b-e40c-472e-a664-884618370dc5)
+">
                     <h4>Patagonia para todos</h4>
                     <p>Conoce la Patagonia Chile, sus lugares más emblemáticos, su gastronomia y cultura. Una travesia de 5 días por la capital de la Region de Magallanes, Punta arenas, donde podras realizar la navegación a la isla magdalena o hacer un recorrido a las condoreras de la zona.</p>
                 </div>
                 <div class="producto">
-                    <img src="./img/producto2.jpg">
+                    <img src="![producto2](https://github.com/user-attachments/assets/ba02f62f-2070-4cc3-85ee-d7b88bcf406a)
+">
                     <h4>Aventura Extrema</h4>
                     <p>Recorre lugares exclusivos de la Patagonia, realiza Trekking en las Torres del Paine, Trekking o escalada en el Cerro Castillo,Navega por el glaciar Grey, Camina por senderos naturales llenos de aire patonico y naturaleza inhospita, realiza kayak con ballenas en punta arenas.</p>
                 </div>
                 <div class="producto">
-                    <img src="./img/producto3.jpg">
+                    <img src="![producto3](https://github.com/user-attachments/assets/155eb1c0-6dba-4ae8-9ff7-4c5566c2ecc9)
+">
                     <h4>Ruta Ancestral</h4>
                     <p>Un recorrido por la historia ancestral, su cultura y estilo de vida. Recorre fiordos y paisajes australes mediante navegación y carretera, con guias turisticos que te contaran la historia de la gente de  la zona, asentamientos humanos y cómo era vivir en esa época.</p>
                 </div>
                 <div class="producto">
-                    <img src="./img/producto4.webp">
+                    <img src="![trestorres](https://github.com/user-attachments/assets/0bdd1a2d-7033-4801-8bf2-3c20f0aea97c)
+">
                     <h4>Atardecer en la Antártida</h4>
                     <p>Un viaje unico e inolvidable, una salida desde punta arenas en avioneta, sobrevuela la antartida Chilena y aterriza en la base/campamento, donde podras recorrer en trekking la zona, etc.Y finalmente una cena austral para esperar el atardecer en uno de los lugares más al sur del mundo.</p>
                 </div>
